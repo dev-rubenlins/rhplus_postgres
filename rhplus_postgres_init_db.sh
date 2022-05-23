@@ -1,0 +1,1 @@
+psql -U postgres -v user_password=\'$RHPLUS_PASSWORD\' -a -f /opt/init.sql
